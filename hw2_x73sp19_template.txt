@@ -1,0 +1,10 @@
+width:  __
+height: __
+type:   __
+minimum pixel: __
+maximum pixel: __
+best Bayer mosaic:  __
+brightening factor: __
+minimal Quality value that looks the same:     __
+compression ratio:                             __
+best white balancing algorithm for this image: __
